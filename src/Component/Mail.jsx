@@ -38,7 +38,7 @@ function Mail() {
     confirm("you want delete this email...");
     
     try{
-      let response = await axios.delete(`https://gmail-clone-backend-qgdb.onrender.com/delete/${id}`);
+      let response = await axios.delete(`https://gmail-clone-backend-qgdb.onrender.com/email/delete/${id}`);
       let data = await response.data;
       if(response.status == 200){
         console.log(data);

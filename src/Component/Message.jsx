@@ -68,7 +68,7 @@ function Message({email}) {
     }
 
     try{
-        let response = await axios.put(`https://gmail-clone-backend-qgdb.onrender.com/update/${id}`,updateObject);
+        let response = await axios.put(`https://gmail-clone-backend-qgdb.onrender.com/email/update/${id}`,updateObject);
 
         let result = await response.data;
 
